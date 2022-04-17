@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/admin/Desktop/my-near-app/contract/target/wasm32-unknown-unknown/debug/build/typenum-1267028664c3e74e/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/admin/Desktop/my-near-app/contract/target/wasm32-unknown-unknown/debug/build/typenum-1267028664c3e74e/out/op.rs
