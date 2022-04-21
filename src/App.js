@@ -354,7 +354,7 @@ export default function App() {
                 <div className="absolute inset-0">
                   <img
                     className="h-full w-full object-cover"
-                    src="https://itforeveryone.org/wp-content/uploads/2022/04/photo_2022-04-17-21.17.52.jpeg"
+                    src="https://itforeveryone.org/wp-content/uploads/2022/04/photo_2022-04-20-22.09.58.jpeg"
                     alt="People working on laptops"
                   />
                   <div className="absolute inset-0 bg-gray-300 mix-blend-multiply" />
