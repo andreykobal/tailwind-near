@@ -1,7 +1,7 @@
-/Users/admin/Desktop/my-near-app/contract/target/wasm32-unknown-unknown/debug/deps/greeter.wasm: src/lib.rs
+/Users/admin/tailwind-near/contract/target/wasm32-unknown-unknown/debug/deps/greeter.wasm: src/lib.rs
 
-/Users/admin/Desktop/my-near-app/contract/target/wasm32-unknown-unknown/debug/deps/libgreeter.rlib: src/lib.rs
+/Users/admin/tailwind-near/contract/target/wasm32-unknown-unknown/debug/deps/libgreeter.rlib: src/lib.rs
 
-/Users/admin/Desktop/my-near-app/contract/target/wasm32-unknown-unknown/debug/deps/greeter.d: src/lib.rs
+/Users/admin/tailwind-near/contract/target/wasm32-unknown-unknown/debug/deps/greeter.d: src/lib.rs
 
 src/lib.rs:
